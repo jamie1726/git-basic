@@ -1,1 +1,2 @@
 Some Contents
+##Update newfile.txt and push the changes to GitHub
